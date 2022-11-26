@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x280b50bDD3D655A16b30C69d736d743fE2e45424",
+  "SCAN_LINK": "https://etherscan.io/address/0x280b50bDD3D655A16b30C69d736d743fE2e45424",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Assault Soldiers",
+  "SYMBOL": "AS",
+  "MAX_SUPPLY": 1500,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/assaultsoldiers",
+  "SHOW_BACKGROUND": true
+}

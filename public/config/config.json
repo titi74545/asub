@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD47e32B2784b7a080244835e58c21cc0DA9F7168",
+  "SCAN_LINK": "https://etherscan.io/address/0xd47e32b2784b7a080244835e58c21cc0da9f7168",
+  "NETWORK": {
+    "NAME": "Ethereum Main Network",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "AssaultSoldiersUB",
+  "SYMBOL": "ASUB",
+  "MAX_SUPPLY": 5200,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 90000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/es/collection/assaultsoldiersub",
+  "SHOW_BACKGROUND": true
+}
